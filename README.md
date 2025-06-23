@@ -1,6 +1,12 @@
 # 🎨 RGB Color Guessing Game
 
 A simple and fun web-based game where players guess the correct color based on RGB values. Built using **HTML, CSS, and JavaScript**.
+##
+![Game Screenshot](assets/screenshot.png)
+##
+![Game Screenshot](assets/screenshot1.png)
+##
+![Game Screenshot](assets/screenshot2.png)
 
 ## 🎮 How to Play
 
