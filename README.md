@@ -6,7 +6,7 @@ A simple and fun web-based game where players guess the correct color based on R
 ##
 ![Game Screenshot](assets/screenshot1.png)
 ##
-![Game Screenshot](assets/screenshot2.png)
+![Game Screenshot](assets/Screenshot2.png)
 
 ## 🎮 How to Play
 
