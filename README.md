@@ -6,7 +6,7 @@ A fun and interactive web-based game where users try to guess the correct color 
 #
 ![Game Screenshot](assets/screenshot1.png)
 #
-![Game Screenshot](assets/screenshot2.png)
+![Game Screenshot](assets/Screenshot2.png)
 
 ## 🕹️ How to Play
 
